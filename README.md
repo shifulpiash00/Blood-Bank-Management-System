@@ -48,6 +48,7 @@ This system ensures the **safe storage, availability, and distribution of blood*
 ### Triggers
 ![Triggers](screenshots/Triggers.png)
 
+---
 
 ## 📄 License
 Developed for academic and educational purposes.
